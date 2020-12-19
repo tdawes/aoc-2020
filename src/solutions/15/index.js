@@ -41,7 +41,7 @@ const part1 = async () => {
   }
   return last;
 };
-30000000;
+
 const part2 = async () => {
   const input = await readInput();
   const nums = parseInput(input);
